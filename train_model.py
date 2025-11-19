@@ -89,7 +89,7 @@ def main():
     print(f"💾 Baseline statistics saved to {baseline_path}")
 
     print("\n✨ Setup complete! You can now run the Streamlit app.")
-    print("Run: streamlit run app.py")
+    print("Run: streamlit run test.py")
 
 
 if __name__ == "__main__":

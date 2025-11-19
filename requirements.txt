@@ -1,0 +1,11 @@
+streamlit
+scikit-learn
+joblib
+numpy
+pandas
+plotly
+sentence-transformers
+scipy
+openai       # optional (only if you want to use OpenAI for explanations)
+langchain  # optional (if you want a richer LLM pipeline)
+groq
